@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Medicamentos_V1\Medicamentos_V1\obj\Debug\Medicamentos_V1.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Medicamentos_V1\Medicamentos_V1\obj\Debug\Medicamentos_V1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Medicamentos_V1\Medicamentos_V1\bin\Debug\Medicamentos_V1.exe.config
+C:\Users\Administrator\source\repos\Medicamentos_V1\Medicamentos_V1\bin\Debug\Medicamentos_V1.exe
+C:\Users\Administrator\source\repos\Medicamentos_V1\Medicamentos_V1\bin\Debug\Medicamentos_V1.pdb
+C:\Users\Administrator\source\repos\Medicamentos_V1\Medicamentos_V1\obj\Debug\Medicamentos_V1.exe
+C:\Users\Administrator\source\repos\Medicamentos_V1\Medicamentos_V1\obj\Debug\Medicamentos_V1.pdb
+C:\Users\Administrator\Desktop\Projetos EDII\Medicamentos\Medicamentos_V1\Medicamentos_V1\bin\Debug\Medicamentos_V1.exe.config
+C:\Users\Administrator\Desktop\Projetos EDII\Medicamentos\Medicamentos_V1\Medicamentos_V1\bin\Debug\Medicamentos_V1.exe
+C:\Users\Administrator\Desktop\Projetos EDII\Medicamentos\Medicamentos_V1\Medicamentos_V1\bin\Debug\Medicamentos_V1.pdb
+C:\Users\Administrator\Desktop\Projetos EDII\Medicamentos\Medicamentos_V1\Medicamentos_V1\obj\Debug\Medicamentos_V1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Projetos EDII\Medicamentos\Medicamentos_V1\Medicamentos_V1\obj\Debug\Medicamentos_V1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projetos EDII\Medicamentos\Medicamentos_V1\Medicamentos_V1\obj\Debug\Medicamentos_V1.exe
+C:\Users\Administrator\Desktop\Projetos EDII\Medicamentos\Medicamentos_V1\Medicamentos_V1\obj\Debug\Medicamentos_V1.pdb
